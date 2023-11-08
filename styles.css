@@ -110,6 +110,9 @@
 .invitacion {
   width: 100vw;
 }
+.padding-0 {
+  padding: 0px !important;
+}
 .home {
   height: 100vh;
   width: 100%;
